@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: rgb(47, 33, 33);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.app{
+  text-align: center;
+  border-radius: 10px;
+  background-image: url('./images/fundob.png');
+  color: #ffffff;
+  width: 1400px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 30px;
+  height: 630px;
+  padding: 22px;
+  
+}
+
+.descricao {
+  text-align: center;
+  color: #371919;
+  margin-top: 0px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.remover{
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(93, 66, 66);
+  color: #FFF;
+  width: 75px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 10px;
+  height: 30px;
+}
+
+.concluir{
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(93, 66, 66);
+  color: #FFF;
+  width: 75px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 15px;
+  height: 30px;
+}
+
+.cadastrar input {
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(38, 32, 32);
+  color: #FFF;
+  width: 250px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 10px;
+  height: 20px;
+  
+}
+
+.listagem {
+  padding: 17px;
+}
+
+.cadastrar label {
+    text-align: center;
+  border-radius: 10px;
+  background-color: rgb(38, 32, 32);
+  color: #FFF;
+  width: 50px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 10px;
+  height: 20px;
+  padding: 5px;
+
+}
+
